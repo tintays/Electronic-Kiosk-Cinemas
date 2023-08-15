@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.modal-content{
+	color: #100a1f;
+	background-color: lightgray;
+}
+
+.modal-header{
+	color: white;
+	background-color: gray;
+}
+
+.modal-footer{
+	color: white;
+	background-color: gray;
+}
+
+.titu_b {
+	display: block;
+	font: 1rem 'Fira Sans', sans-serif;
+}
+
+.n_b {
+	margin: .4rem 0;
+}
+
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: #303030;
+	color:white;
+}
