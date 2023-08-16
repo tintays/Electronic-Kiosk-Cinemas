@@ -2,7 +2,7 @@
 
 This project aims to address the issue of long queues and waiting times at cinemas in Nicaragua by providing an affordable solution that can potentially scale in the future. The system is designed to be integrated with an ESP32 microcontroller, which utilizes an RFID sensor to read NFC cards. This enables the simulation of credit or debit card payments, enhancing the overall cinema experience. This project was developed by Josue Noel Lopez Guevara @tintays and Manuel Alejandro Juarez Juarez, both students from Universidad Tecnologica La Salle (La Salle Technological University), Leon, Nicaragua.
 
-![Electronic Kiosk](Electronic-Kiosk-Cinema/img/Electronic Kiosk Image.png)
+![Electronic Kiosk](img/Electronic Kiosk Image.png)
 
 ## Features
 
